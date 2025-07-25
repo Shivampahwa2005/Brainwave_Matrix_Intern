@@ -32,6 +32,14 @@ The tool helps detect whether a given URL is **safe** or **phishing/fake**, base
 ```bash
 python src/phishing_link_scanner.py
 
+## GUI WINDOW
+![GUI Screenshot](Screenshots/GUI.png)
+
+## SAFE_URL
+![GUI Screenshot](Screenshots/SAFE_URL.png)
+
+## UNSAFE_URL
+![GUI Screenshot](Screenshots/UNSAFE_URL.png)
 
 
 
