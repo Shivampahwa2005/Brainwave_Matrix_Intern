@@ -1,0 +1,29 @@
+[2025-07-25 01:29:28] URL: https://www.wikipedia.org
+
+ — Result: SAFE
+[2025-07-25 01:29:36] URL: http://signin-help.abc.xyz — Result: SAFE
+[2025-07-25 01:29:38] URL: http://signin-help.abc.xyz — Result: SAFE
+[2025-07-25 01:29:39] URL: http://signin-help.abc.xyz — Result: SAFE
+[2025-07-25 01:29:39] URL: http://signin-help.abc.xyz — Result: SAFE
+[2025-07-25 01:29:39] URL: http://signin-help.abc.xyz — Result: SAFE
+[2025-07-25 01:29:50] URL: http://signin-help.abc.xyz — Result: SAFE
+[2025-07-25 01:29:59] URL: http://login-update-instagram-app.com — Result: SUSPICIOUS
+[2025-07-25 01:30:01] URL: http://login-update-instagram-app.com — Result: SUSPICIOUS
+[2025-07-25 01:30:01] URL: http://login-update-instagram-app.com — Result: SUSPICIOUS
+[2025-07-25 01:30:01] URL: http://login-update-instagram-app.com — Result: SUSPICIOUS
+[2025-07-25 01:30:01] URL: http://login-update-instagram-app.com — Result: SUSPICIOUS
+[2025-07-25 01:30:29] URL: http://192.168.1.1/reset-password — Result: SUSPICIOUS
+[2025-07-25 01:30:44] URL: http://free-giftcard.amazon-user-check.inf — Result: SUSPICIOUS
+[2025-07-25 01:30:45] URL: http://free-giftcard.amazon-user-check.inf — Result: SUSPICIOUS
+[2025-07-25 01:30:45] URL: http://free-giftcard.amazon-user-check.inf — Result: SUSPICIOUS
+[2025-07-25 01:30:45] URL: http://free-giftcard.amazon-user-check.inf — Result: SUSPICIOUS
+[2025-07-25 01:31:00] URL: http://myaccount-security-verification.com — Result: SUSPICIOUS
+[2025-07-25 01:31:01] URL: http://myaccount-security-verification.com — Result: SUSPICIOUS
+[2025-07-25 01:31:01] URL: http://myaccount-security-verification.com — Result: SUSPICIOUS
+[2025-07-25 01:31:02] URL: http://myaccount-security-verification.com — Result: SUSPICIOUS
+[2025-07-25 01:31:14] URL: https://www.linkedin.com — Result: SAFE
+[2025-07-25 01:31:50] URL: http://paypal-verify-account-security.com — Result: SUSPICIOUS
+[2025-07-25 01:32:39] URL: http://sbi-customer-verification-alert.com — Result: SAFE
+[2025-07-25 01:34:56] URL: http://secure-update-login1234.bank-verification-alert.com/verify?id=192.168.0.1
+ — Result: LIKELY UNSAFE
+[2025-07-25 01:35:44] URL: http://secure-login-page.tk — Result: SUSPICIOUS
