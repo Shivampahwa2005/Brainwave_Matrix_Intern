@@ -1,1 +1,20 @@
+**SAFE URLs (Legitimate and clean)**
+https://www.google.com
+https://www.wikipedia.org
+https://www.apple.com
+
+
+** SUSPICIOUS URLs (Scoring between 4 and 6)**
+http://secure-login-update.net
+http://paypal-account-verify.com
+http://user-reset-password-alert.com
+
+
+**UNSAFE URLs (Scoring >= 7 or matching phishing domain list)**
+http://192.168.0.1/verify-account?update=now
+http://signin-update-confirm.net/secure@details%login
+http://verify-account-login-alert.com?user=abc&pass=123&secure=yes
+
+
+
 
