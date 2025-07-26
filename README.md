@@ -29,7 +29,7 @@ The tool helps detect whether a given URL is **safe** or **phishing/fake**, base
 2. Clone or download this repo
 3. Run the script using:
 
-```bash
+bash
 python src/phishing_link_scanner.py
 
 ## GUI WINDOW
